@@ -16,15 +16,15 @@ module.exports = {
 		envConfig: {}
 	},
 	onStart: async function ({ message }) {
-		const authorName = " ⩸_ 𝙰𝚁𝙸𝚈𝙰𝙽 _⩸ ";
-		const ownAge = "『 ⩸_ 19+ _⩸ 』";
-		const messenger = " //m.me/ariyan12hi ";
-		const authorFB = " https://www.facebook.com/profile.php?id=61578434375227 ";
-		const authorNumber = "018××××××*";
+		const authorName = " ⩸_ Rudra_⩸ ";
+		const ownAge = "『 ⩸_ 16+ _⩸ 』";
+		const messenger = "";
+		const authorFB = " https://www.facebook.com/profile.php?id=61576675926196 ";
+		const authorNumber = "015××××××*";
 		const Status = "⩸_ 𝚂𝙸𝙽𝙶𝙻𝙴 _⩸";
 		const urls = [
-"https://drive.google.com/uc?export=download&id=16B-IPuC_Zv6ZtVr9rtdEI3fOtkXfiz0d",
-"https://drive.google.com/uc?export=download&id=16B-IPuC_Zv6ZtVr9rtdEI3fOtkXfiz0d"
+"",
+""
 ];
 		const link = urls[Math.floor(Math.random() * urls.length)];
 		const now = moment().tz('Asia/Jakarta');
